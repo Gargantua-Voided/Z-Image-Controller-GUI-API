@@ -1,4 +1,4 @@
-# Z-Image Controller
+# Z-Image Controller WEBUI + API Backend
 
 A lightweight local web UI for running the **Z-Image Turbo** pipeline
 (Tongyi-MAI / Diffusers).\
