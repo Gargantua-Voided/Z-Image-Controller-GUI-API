@@ -20,6 +20,11 @@ simple Flask backend.
 -   Downloadable output image
 -   Works with CPU or CUDA automatically
 
+
+<img width="900" height="800" alt="demo" src="https://github.com/user-attachments/assets/7e2f74e4-d41d-4dd1-97fb-a030b60e6472" />
+
+
+
 ## Requirements
 
 -   **Python 3.10**
