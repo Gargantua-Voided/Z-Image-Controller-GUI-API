@@ -1,5 +1,6 @@
 
-<img width="450" height="450" alt="logo" src="https://github.com/user-attachments/assets/776f5610-cfda-44db-b1d0-8706d6fec327" />
+<img width="400" height="400" alt="logo" src="https://github.com/user-attachments/assets/3d3314af-74e6-49b0-8a7f-1eefdca75feb" />
+
 
 
 # Z-Image Controller WEBUI + API Backend
