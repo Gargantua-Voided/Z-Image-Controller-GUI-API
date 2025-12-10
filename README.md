@@ -1,3 +1,7 @@
+
+<img width="450" height="450" alt="logo" src="https://github.com/user-attachments/assets/776f5610-cfda-44db-b1d0-8706d6fec327" />
+
+
 # Z-Image Controller WEBUI + API Backend
 
 A lightweight local web UI for running the **Z-Image Turbo** pipeline
